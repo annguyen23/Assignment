@@ -5,7 +5,7 @@ public class IntStack{
    /**create object IntStack
       @param collection: Array represents the collection
    */
-  public IntStack createIntStack() {
+  public static IntStack createIntStack() {
     return new IntStack();
   } 
   
