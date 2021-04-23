@@ -4,7 +4,7 @@ import java.io.File;
 
 public class HW_Loops_Files {
 
-  private static final String dataFileName = "courseData.txt";
+  private static final String dataFileName = "courseData.txt"; 
 
   // Public for testing purposes, these should be protected or private.
   public static double programWeight;
