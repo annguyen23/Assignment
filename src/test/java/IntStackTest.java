@@ -7,7 +7,7 @@ public class IntStackTest {
     @Test
     public void getCapacity() {
         IntStack stack = new IntStack();
-        assertEquals(stack.getCapacity(), 0);
+        assertEquals(stack.getCapacity(), 10);
     }
 
     @Test
